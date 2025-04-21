@@ -21,7 +21,7 @@ _✨ 一句话介绍你的身份/兴趣 (例如：全栈开发者 | 开源爱好
 
 ## 📈 GitHub 数据
 <!-- 动态统计卡片 -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAGenius&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAGenius&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
